@@ -1,0 +1,28 @@
+{
+  "name": "architect-access-log",
+  "version": "1.0.0",
+  "description": "provide access logs to architect application using an express/restify middleware",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bimedia-fr/architect-access-log.git"
+  },
+  "keywords": [
+    "architect",
+    "access",
+    "log",
+    "rest"
+  ],
+  "author": "jerome creignou",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/bimedia-fr/architect-access-log/issues"
+  },
+  "homepage": "https://github.com/bimedia-fr/architect-access-log#readme",
+  "dependencies": {
+    "access-log": "^0.3.9"
+  }
+}
