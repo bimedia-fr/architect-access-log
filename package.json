@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/bimedia-fr/architect-access-log#readme",
   "dependencies": {
-    "access-log": "^0.3.9"
+    "access-log": "bimedia-fr/node-access-log"
   }
 }
