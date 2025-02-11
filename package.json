@@ -1,6 +1,6 @@
 {
   "name": "architect-access-log",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "provide access logs to architect application using an express/restify middleware",
   "main": "lib/index.js",
   "scripts": {
